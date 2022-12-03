@@ -431,6 +431,7 @@ h2 {
   -webkit-transition: 0.2s;
   -o-transition: 0.2s;
   transition: 0.2s;
+   cursor: pointer;
 }
 
 .btn:hover {
